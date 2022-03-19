@@ -42,7 +42,9 @@
  <br>
 
  ## [Car Shop](https://github.com/Louiixx-h/Car-Shop)
-
+ O objetivo desse projeto foi criar uma loja de carros fictícia, os dados são recuperados de uma api de carros.
+ No aplicativo o usuário pode visualizar os detalhes do carro que lhe interessar clicando no item e também pode
+ realizar uma compra fake.
 <div>
  <img src="./images/carshop/home.png" width="200"/>
  <img src="./images/carshop/detail.png" width="200"/>
@@ -54,6 +56,9 @@
  <br>
 
  ## [Cute Cats Gallery](https://github.com/Louiixx-h/Cute-Cats-Gallery)
+ Este app é uma galeria de fotos de gatos, as imagens que estão no app é resgatada de uma api externa.
+ Além de poder visualizar várias fotos de gatinhos, você também consegue visualizar o número de curtidas 
+ e até baixar imagens.
  <div>
  <img src="./images/cats/home.png" width="200"/>
  <img src="./images/cats/loading.png" width="200"/>
@@ -62,7 +67,9 @@
  <br>
  <br>
 
- ## [Movie Brasil](https://github.com/Louiixx-h/Movie-Brasil)
+ ## [Movie Brasil (WIP)](https://github.com/Louiixx-h/Movie-Brasil)
+ O Movie Brasil é um aplicativo de listagem de filmes, o usuário pode ver os lançamentos do mês,
+ os filmes mais populares e também salvar seu filme favorito.
 <div>
  <img src="./images/moviebrasil/home.png" width="200"/>
  <img src="./images/moviebrasil/home1.png" width="200"/>
@@ -71,6 +78,9 @@
  <br>
 
  ## [Login Mobile](https://github.com/Louiixx-h/login-mobile)
+ Este aplicativo é um protótipo de login onde o usuário pode se cadastrar com seu email e senha
+ e também pode realizar o login com sua conta criada anteriormente. O app usa o firebase como
+ backend que faz a autenticação.
 <div>
  <img src="./images/login/start.png" width="200"/>
  <img src="./images/login/login.png" width="200"/>
@@ -79,7 +89,9 @@
  <br>
  <br>
 
- ## [Top Repositórios Java](https://github.com/Louiixx-h/top-repositorios-java)
+ ## [Top Repositórios Java (WIP)](https://github.com/Louiixx-h/top-repositorios-java)
+ Este aplicativo exibe uma lista de repositórios java mais bem avaliados no github. Cada item mostra
+ informações de nome, descrição, a quantidade de estrelas e pull requests.
 <div>
  <img src="./images/javatop/home.png" width="200"/>
 </div>
