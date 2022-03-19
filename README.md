@@ -53,7 +53,7 @@
  <br>
  <br>
 
- ## [Cute Cats Gallery](https://github.com/Louiixx-h/Car-Shop)
+ ## [Cute Cats Gallery](https://github.com/Louiixx-h/Cute-Cats-Gallery)
  <div>
  <img src="./images/cats/home.png" width="200"/>
  <img src="./images/cats/loading.png" width="200"/>
@@ -79,7 +79,7 @@
  <br>
  <br>
 
- ## [Top Repositórios Java](https://github.com/Louiixx-h/Login-Mobile-With-Firebase)
+ ## [Top Repositórios Java](https://github.com/Louiixx-h/top-repositorios-java)
 <div>
  <img src="./images/javatop/home.png" width="200"/>
 </div>
