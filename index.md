@@ -1,3 +1,4 @@
+ <img src="./images/capa/capa.png"/>
  <h1> Luis Henrique </h1>
 
  Sou desenvolvedor Android, trabalho com Kotlin e
