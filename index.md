@@ -1,4 +1,15 @@
  <img src="./images/capa/capa.png"/>
+ 
+ <a href="https://www.linkedin.com/in/luishenr-m/">
+ <img src="https://img.shields.io/badge/LinkedIn-Seguir-474747.svg?style=for-the-badge&logo=linkedin"/>
+ </a>
+ <a href="https://twitter.com/louishenriqk">
+ <img src="https://img.shields.io/badge/LinkedIn-Seguir-474747.svg?style=for-the-badge&logo=twitter"/>
+ </a>
+ <a href="https://louiixx-h.github.io/portfolio/">
+ <img src="https://img.shields.io/badge/Site-exibir-474747.svg?style=for-the-badge&logo=site"/>
+ </a>
+ 
  <h1> Luis Henrique </h1>
 
  Sou desenvolvedor Android, trabalho com Kotlin e
