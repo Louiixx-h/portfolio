@@ -1,5 +1,9 @@
   <img src="./images/capa/capa.png"/>
  
+ [![linkedin](https://img.shields.io/badge/LinkedIn-Seguir-474747.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luishenr-m/)
+ [![linkedin](https://img.shields.io/badge/LinkedIn-Seguir-474747.svg?style=for-the-badge&logo=twitter)](https://twitter.com/louishenriqk)
+ [![site](https://img.shields.io/badge/Site-exibir-474747.svg?style=for-the-badge&logo=site)](https://louiixx-h.github.io/portfolio/)
+ 
  # Luis Henrique
 
  Sou desenvolvedor Android, trabalho com Kotlin e
