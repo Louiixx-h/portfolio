@@ -11,7 +11,8 @@
  </a>
  
  <h1> Luis Henrique </h1>
-
+ 
+ <p class="overview">
  Sou desenvolvedor Android, trabalho com Kotlin e
  Java com 1 ano de experiência no mercado de trabalho, tenho
  cerca de 2 anos de experiência com
@@ -20,12 +21,16 @@
  práticas como SOLID e Clean Code.
  Procuro me colocar no mercado de
  trabalho de forma remota.
-
+ </p>
+ 
  <h2> O que quero alcançar? </h2>
+ <p class="objective">
  Meu plano de carreira tem como objetivo me tornar especialista Android,  entregar um trabalho de excelência e ser referência na área de tecnologia.
-
+ </p>
+ 
  <h2> Hard Skills </h2>
-
+ 
+ <div class="hard-skill-list">
  <ul>
  <li> Android Studio </li>
  <li> Java / Kotlin / C# </li>
@@ -38,9 +43,11 @@
  <li> Git / Github / Bitbucket</li>
  <li> Trello / Jira / Teams</li>
  </ul>
-
+ </div>
+ 
  <h2> Soft Skill </h2>
  
+ <div class="hard-skill-list">
  <ul>
  <li> SCRUM / Kanbam</li>
  <li> Comunicação clara</li>
@@ -51,10 +58,12 @@
  <li> Vontade de aprender</li>
  <li> Disciplina</li>
  </ul>
-
+ </div>
+ 
  <h2> Projetos pessoais </h2>
+ <p class="projects">
  Aqui está listado com os meus projetos pessoais que eu fui desenvolvendo ao longo do meu aprendizado com android studio.
-
+ </p>
  <br>
  <br>
 
